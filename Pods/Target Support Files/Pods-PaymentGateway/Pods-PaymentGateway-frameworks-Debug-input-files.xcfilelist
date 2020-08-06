@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PaymentGateway/Pods-PaymentGateway-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AEXML/AEXML.framework
+${BUILT_PRODUCTS_DIR}/AuthorizeNetAccept/AuthorizeNetAccept.framework
